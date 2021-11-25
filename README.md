@@ -4,7 +4,7 @@
 
 #### *Duct Elbows*
 
-* **Présentation :** c'est un demi coude d'un conduit d'air chaud de mât réacteur de A320 en AISI 316 voir un Inconel 718. Cette pièce est utilisée comme exemple dans dcShapeDetector.
+* **Présentation :** c'est un demi coude d'un conduit d'air chaud de mât réacteur de A320 en AISI 316 voir un Inconel 718. 
 * **Propriétaire de la pièce :** Luc Penazzi < luc.penazzi@mines-albi.fr >
 * **Détails :**
 	* Type : nuage de points / maillage triangulaire 
